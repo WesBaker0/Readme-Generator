@@ -15,7 +15,7 @@ https://github.com/WesBaker0/Readme-Generator/assets/131714206/e08c32db-0135-444
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Questions?](#questions?)
+- [Questions?](#questions)
 
 ## Installation
 
