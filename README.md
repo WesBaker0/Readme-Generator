@@ -49,7 +49,7 @@ To test the application:
 1. Follow the installation steps to set up the application.
 2. Run `node index.js` and ensure that README.md is generated without any errors.
 
-## Questions
+## Questions?
 
 For any questions or inquiries, please contact:
 
